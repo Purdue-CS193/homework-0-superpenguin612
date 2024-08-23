@@ -1,3 +1,11 @@
+# David's First CS193 Homework
+
+### Fav things about CS193
+- cool students
+- cooler lecturers
+- best slide decks in town (can you guys make the slides for my other classes pls)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
